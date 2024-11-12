@@ -1,4 +1,4 @@
-# python3 find_duplicates.py /Users/yk/toshiba rescan
+# python3 find_duplicates.py /path/to/directory rescan
 # python3 find_duplicates.py /path/to/directory rescan --min_size_mb 10
 # python3 find_duplicates.py /path/to/directory load_from_pickle
 # 
